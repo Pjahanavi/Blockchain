@@ -99,7 +99,7 @@ Feature | Images
 **Disabled Copy/Paste** Disabled copy/paste for entire paper generating process
 **Prohibited Object Detection!** Any object that will block the view of camera or if person is not visible, the system simply denies the access to the system
 **Highly Flexible!** Full flexibility is provided to generate the paper in terms of difficulty and inaccordance with current syllabus. 
-**Editable!** The paper generated automatically is also manually editable according to board's needs | ![booldetect]()
+**Editable!** The paper generated automatically is also manually editable according to board's needs | ![booldetect](https://github.com/Pjahanavi/Blockchain/blob/fa9ffbfbdbb5e47e75482a1855e7c1d30c1f1d75/images/Screenshot%202025-06-09%20160707.png)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
