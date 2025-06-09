@@ -13,7 +13,7 @@ Getting fine grained questions for board examinations is a difficult and time co
 Feature | Images
 ------------ | -------------
  **Hompage**  
- Fast, easy to use, and incredibly convenient with a minimalistic UI! | ![homepage](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/landing.png)
+ Fast, easy to use, and incredibly convenient with a minimalistic UI! | ![homepage](https://github.com/Pjahanavi/Blockchain/blob/5b37683504d39c89d5173395a478c04e0d980bff/images/Screenshot%202025-04-06%20130408.png)
 **Contributor Dashboard** 
 All the accepted questions are shown here|![registrationPage](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/c_dashboard.png)
 **Teacher Expert Dashboard**
