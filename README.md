@@ -1,10 +1,72 @@
- ## 📝 Problem statement :
-"Summary: To be able to graduate to objective type questions for one semester of online board exams, a question bank of at least 5000 questions will be required for each subject. Setting question papers for the exams is a complicated task. Can you think of a Crowd Sourcing model where questions are set by large number of anonymous stakeholders thereby creating a large question bank? These questions can be vetted by experts before freezing the same in the question bank. The actual question paper can be set through an automated system"
+ ## 📝 Overview :
+"A Blockchain-Based Question Paper System uses decentralized ledger technology to securely store, distribute, and track exam question papers. This prevents unauthorized access, tampering, and leaks, ensuring transparency and integrity in the examination process."
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 🚩 Overview :
-Getting fine grained questions for board examinations is a difficult and time consuming task. Along with this setting examination paper taking into consideration various paprameters such as difficulty, weightage is quite error-prone. The question paper that is generated should be secured in a proper and effective manner to prevent any mishap such as leaking of paper. Sending question paper to the students across the network should be in a highly secure environment. So our team proposed a solution to tackle all this. We developed an online decentralized crowdsource model to have stakeholders contribute questions on our platform which will be later vetted by experts and using them to generate a question paper. The question paper generated would be encrypted and send across the network to the third party blockchain and would be distributed to the students whenever required and would ensure a secure and smooth process of sending question paper to the students who registered for it. 
+## 🚩 Summary :
+## Objective:
+To secure question papers using blockchain to eliminate leaks, tampering, and unauthorized access.
+
+## Technology Used:
+
+Blockchain Platform: Ethereum / Hyperledger
+
+Smart Contracts: Automate locking/unlocking of papers
+
+Encryption: AES/RSA for added security
+
+Access Control: Role-based via smart contracts
+
+ ## Key Features:
+
+🔒 Immutability: Once uploaded, question papers cannot be altered.
+
+📈 Traceability: All access and changes are recorded on-chain.
+
+⏱️ Timed Access: Papers unlock at a predefined date/time via smart contracts.
+
+👤 Role Management: Different roles for admin, examiner, and centers.
+
+🧾 Auditability: Every transaction is logged and verifiable.
+
+## ⚙️ Working Process
+Paper Creation: Examiner creates and encrypts question paper.
+
+Upload to Blockchain: Paper is hashed and stored using IPFS/Swarm with hash on blockchain.
+
+Smart Contract Deployment: Smart contract holds the hash and sets access time.
+
+Paper Distribution: On exam day, access is unlocked based on time-triggered contract.
+
+Verification & Access: Only authorized centers can retrieve and decrypt the file using private keys.
+
+## 🧠 Benefits
+✅ Eliminates human error and unauthorized leaks
+
+✅ Transparent and traceable paper handling
+
+✅ Reduces dependency on physical logistics
+
+✅ Enables real-time monitoring of paper access
+
+## ⚠️ Challenges
+⚙️ Need for blockchain infrastructure in institutions
+
+🧑‍🏫 Training staff to use decentralized tools
+
+🔑 Managing secure private keys and access recovery
+
+📶 Dependence on reliable internet connectivity
+
+## 🧪 Use Cases
+University Exams
+
+Government Competitive Exams
+
+Online Certification Tests
+
+Private Institution Assessments
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -27,7 +89,7 @@ Sample paper sets with various difficulties for practice |![professor](https://g
 **Discussion Forum**
 Discussion section to share doubts and discuss something meaningful with the world |![professor]()
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://github.com/Pjahanavi/Blockchain/blob/e81fffa4317941432a482d770f8fe8ac154daa65/images/Screenshot%202025-04-06%20124823.png)
 
 ## 🚩 Features of Question Paper Generation:
 Feature | Images
