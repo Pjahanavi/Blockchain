@@ -85,9 +85,9 @@ Stakeholders can opt to upload image from book or can speak out the question |![
 **Virtual keyboard**
 Virtual mathematical keyboard to ease the process of typing any mathematical equation |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/virtual.png)
 **Sample papers**
-Sample paper sets with various difficulties for practice |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/sample.png)
+Sample paper sets with various difficulties for practice |!(https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/sample.png)
 **Discussion Forum**
-Discussion section to share doubts and discuss something meaningful with the world |![professor]()
+Discussion section to share doubts and discuss something meaningful with the world 
 
 ![-----------------------------------------------------](https://github.com/Pjahanavi/Blockchain/blob/e81fffa4317941432a482d770f8fe8ac154daa65/images/Screenshot%202025-04-06%20124823.png)
 
@@ -98,9 +98,8 @@ Feature | Images
 **Cell Phone Detection** If any expert tries to click pictures via phone, the tensorflow model detects it and immediately denies the access for later interaction | ![cell phone detection](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/phone_detect.png) 
 **Disabled Copy/Paste** Disabled copy/paste for entire paper generating process
 **Prohibited Object Detection!** Any object that will block the view of camera or if person is not visible, the system simply denies the access to the system
-**Multilingual Paper Support!** Paper can be generated in both English/Hindi Language | ![booldetect](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/hindi_q.png)
-**Highly Flexible!** Full flexibility is provided to generate the paper in terms of difficulty and inaccordance with current syllabus | ![booldetect](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/paper.png)
-**Editable!** The paper generated automatically is also manually editable according to board's needs | ![booldetect](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/manual.png)
+**Highly Flexible!** Full flexibility is provided to generate the paper in terms of difficulty and inaccordance with current syllabus. 
+**Editable!** The paper generated automatically is also manually editable according to board's needs | ![booldetect]()
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
