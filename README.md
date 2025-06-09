@@ -22,12 +22,10 @@ Stakeholders can add questions throught this interface with ease |![professor](h
 Stakeholders can opt to upload image from book or can speak out the question |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/ocr.png)
 **Virtual keyboard**
 Virtual mathematical keyboard to ease the process of typing any mathematical equation |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/virtual.png)
-**Multilingual Dashboard**
-Multi language dashboard support is provided to the users |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/hindi.png)
 **Sample papers**
 Sample paper sets with various difficulties for practice |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/sample.png)
 **Discussion Forum**
-Discussion section to share doubts and discuss something meaningful with the world |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/master/images/discuss.png)
+Discussion section to share doubts and discuss something meaningful with the world |![professor]()
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
