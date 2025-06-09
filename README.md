@@ -17,7 +17,7 @@ Feature | Images
 **Contributor Dashboard** 
 All the accepted questions are shown here|![registrationPage](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/c_dashboard.png)
 **Teacher Expert Dashboard**
-Experts after secure authentication can access all the features provided to them through this dashboard |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/teacher_dash.png)
+Experts after secure authentication can access all the features provided to them through this dashboard |![professor](https://github.com/Pjahanavi/Blockchain/blob/9aac9a8f4423fc59400e0bca57c0241fe1b927d9/images/Screenshot%202025-03-14%20120355.png)
 **Add Question Section**
 Stakeholders can add questions throught this interface with ease |![professor](https://github.com/Divijkatyal0406/CrowdQuest/blob/resolved/images/question_submit.png)
 **OCR and voice input**
